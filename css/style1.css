@@ -1,0 +1,28 @@
+.container{
+    background-color: grey;
+    height:300px;
+    width: 300px;
+    position:absolute;
+    bottom: 500px;
+}
+.red{
+    background-color: red;
+    height:100px;
+    width: 100px;
+    
+}
+.blue{
+    background-color: blue;
+    height:100px;
+    width:100px;
+    position:absolute;
+    left:110px;
+}
+.yellow{
+    background-color:yellow;
+    height:100px;
+    width:100px;
+    position:absolute;
+    top:210px;
+    left:210px;
+}
